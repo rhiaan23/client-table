@@ -1,4 +1,4 @@
-# Cofactor AI intern task
+# Client Table Project
 
 ## Table of Contents
 - [Features](#features)
